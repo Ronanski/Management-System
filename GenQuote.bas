@@ -100,30 +100,5 @@ Sub LastStep()
     
     Next colNum
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 End Sub
 

@@ -58,6 +58,7 @@ Sub RefreshGenList()
     
 End Sub
 Sub DeleteTemplate()
+
     Dim wb As Workbook
     Dim ws As Worksheet
     Dim myConn As ADODB.Connection
@@ -98,6 +99,7 @@ Sub DeleteTemplate()
     
     myConn.Close
     Set myConn = Nothing
+    
 End Sub
 Private Sub applycreate_Click()
     
@@ -175,8 +177,8 @@ Private Sub applycreate_Click()
     End If
     
 End Sub
-
 Private Sub B2_Click()
+    
     Dim wb As Workbook
     Dim ws As Worksheet
     Dim myConn As ADODB.Connection
