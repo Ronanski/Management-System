@@ -13,6 +13,11 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+    '
+    ' THIS VBA PROGRAM IS NOW ON MY GITHUB
+    ' All changes will be publish on my repository for easy track
+    '
+
 Sub RefreshGenList()
     
     Dim myConn As ADODB.Connection
